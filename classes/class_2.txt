@@ -1,0 +1,19 @@
+Class: Dessert
+
+attributes
+
+  portionSize (integer)
+  frozen (boolean)
+  hasWhip (boolean)
+  flavor (string)
+
+
+
+
+methods
+
+  addWhip (changes hasWhip attribute to true)
+  sizeUp (increases portionSize attribute)
+  flambe (changes frozen attribute to false)
+  changeFlavor (changes flavor attribute)
+  
