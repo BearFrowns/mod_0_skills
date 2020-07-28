@@ -1,0 +1,18 @@
+Instance: iceCream
+
+attributes
+
+  portionSize: 2;
+  frozen: true;
+  hasWhip: false;
+  flavor: "Vanilla"
+
+
+
+
+methods
+
+  addWhip (hasWhip: true;)
+  sizeUp (portionSize: 3;)
+  flambe (frozen: false;)
+  changeFlavor (flavor: "Pistachio")
