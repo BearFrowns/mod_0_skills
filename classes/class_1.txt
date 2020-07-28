@@ -1,0 +1,16 @@
+Class: Entree
+
+attributes
+
+  comesWithSide (boolean)
+  numberOfSide (integer)
+  side (string)
+  protein (string)
+  drink (string)
+
+methods
+
+  changeDrink (changes drink attribute)
+  proteinChange (changes protein attribute)
+  addSide (increases numberOfSide attribute)
+  removeSide (decreases numberOfSide attribute)
