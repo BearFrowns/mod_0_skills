@@ -1,0 +1,16 @@
+Instance: turfAndTurf
+
+attributes
+
+  comesWithSide: true;
+  numberOfSide: 2;
+  side: "Ribeye";
+  protein: "Steak";
+  drink: "Whiskey Neat"
+
+methods
+
+  changeDrink (drink: "Whiskey On The Rocks")
+  proteinChange (protein: "Colossal Shrimp")
+  addSide (numberOfSide: 3;)
+  removeSide (numberOfSide; 1;)
